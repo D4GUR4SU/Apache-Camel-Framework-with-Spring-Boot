@@ -15,7 +15,7 @@
 
 ## ⚙️ Activities
 
-- [ ] Getting Started with Apache Camel and Spring Boot.
+- [x] Getting Started with Apache Camel and Spring Boot.
 - [ ] Integrating Apache Camel with ActiveMQ and Kafka.
 - [ ] Exploring Apache Camel Further.
 - [ ] Exploring Apache Camel Enterprise Integration Patterns.
