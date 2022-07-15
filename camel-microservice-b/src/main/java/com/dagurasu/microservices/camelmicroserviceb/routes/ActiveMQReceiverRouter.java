@@ -5,6 +5,8 @@ import org.apache.camel.model.dataformat.JsonLibrary;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+import com.dagurasu.microservices.camelmicroserviceb.CurrencyExchange;
+
 @Component
 public class ActiveMQReceiverRouter extends RouteBuilder{
 	
