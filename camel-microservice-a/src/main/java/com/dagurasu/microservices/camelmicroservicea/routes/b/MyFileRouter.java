@@ -11,7 +11,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 public class MyFileRouter extends RouteBuilder{
 
 	@Autowired
@@ -20,7 +20,10 @@ public class MyFileRouter extends RouteBuilder{
 	@Override
 	public void configure() throws Exception {
 		
+		// Pipeline
+		
 		from("file:files/input")
+			//.pipeline()
 			.routeId("Files-Input-Route")
 			.transform().body(String.class)
 			.choice()
