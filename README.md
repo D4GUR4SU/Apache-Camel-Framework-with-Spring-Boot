@@ -19,7 +19,7 @@
 - [x] Integrating Apache Camel with ActiveMQ and Kafka.
 - [x] Exploring Apache Camel Further.
 - [x] Exploring Apache Camel Enterprise Integration Patterns.
-- [ ] Exploring Apache Camel Best Practices.
+- [x] Exploring Apache Camel Best Practices.
 
 ---
 

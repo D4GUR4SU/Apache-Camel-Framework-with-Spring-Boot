@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 
 import com.dagurasu.microservices.camelmicroserviceb.CurrencyExchange;
 
-@Component
+//@Component
 public class MyCurrencyExchangeProcessor {
 
 	private Logger logger = LoggerFactory.getLogger(MyCurrencyExchangeProcessor.class);
