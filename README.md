@@ -18,7 +18,7 @@
 - [x] Getting Started with Apache Camel and Spring Boot.
 - [x] Integrating Apache Camel with ActiveMQ and Kafka.
 - [x] Exploring Apache Camel Further.
-- [ ] Exploring Apache Camel Enterprise Integration Patterns.
+- [x] Exploring Apache Camel Enterprise Integration Patterns.
 - [ ] Exploring Apache Camel Best Practices.
 
 ---
